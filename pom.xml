@@ -60,6 +60,11 @@
             <name>Comphenix Repository</name>
             <url>http://repo.comphenix.net/content/groups/public</url>
         </repository>
+        <repository>
+            <id>Mineconomy</id>
+            <name>Mineconomy</name>
+            <url>http://ci.mineconomy.org/plugin/repository/everything/</url>
+        </repository>
     </repositories>
     <build>
         <finalName>${project.name}</finalName>

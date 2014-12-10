@@ -1,17 +1,17 @@
 # Eclipse stuff                                                                                                                                                
 /.classpath                                                                                                                                                    
 /.project                                                                                                                                                      
-/.settings   
+/.settings
 
 # netbeans                                                                                                                                                     
-/nbproject                                                                                                                                                     
-                                                                                                                                                               
+/nbproject
+
 # we use maven!                                                                                                                                                
-/build.xml                                                                                                                                                     
-                                                                                                                                                               
+/build.xml
+                                                                                                                                                  
 # maven                                                                                                                                                        
-/target                                                                                                                                                        
-                                                                                                                                                               
+/target
+
 # vim
 .*.sw[a-p]
 
@@ -28,6 +28,7 @@
 *.iml
 *.ipr
 *.iws
+/.idea
 
 /.externalToolBuilders
 /.swp
