@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.desht</groupId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.1-SNAPSHOT</version>
     <artifactId>chesscraft</artifactId>
     <packaging>jar</packaging>
     <name>ChessCraft</name>
@@ -12,9 +12,9 @@
     <url>http://dev.bukkit.org/server-mods/chesscraft</url>
 
     <scm>
-        <connection>scm:git:git://github.com/desht/ChessCraft.git</connection>
-        <developerConnection>scm:git:git@github.com:desht/ChessCraft.git</developerConnection>
-        <url>https://github.com/desht/ChessCraft</url>
+        <connection>scm:git:git://github.com/mcmonkey4eva/ChessCraft.git</connection>
+        <developerConnection>scm:git:git@github.com:mcmonkey4eva/ChessCraft.git</developerConnection>
+        <url>https://github.com/mcmonkey4eva/ChessCraft</url>
     </scm>
 
     <licenses>
@@ -148,7 +148,7 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.7.9-R0.2</version>
+            <version>1.8-R0.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -172,7 +172,7 @@
         <dependency>
             <groupId>com.sk89q</groupId>
             <artifactId>worldedit</artifactId>
-            <version>5.5.8</version>
+            <version>6.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -218,7 +218,7 @@
         <dependency>
             <groupId>net.citizensnpcs</groupId>
             <artifactId>citizensapi</artifactId>
-            <version>2.0.11-SNAPSHOT</version>
+            <version>2.0.14-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
